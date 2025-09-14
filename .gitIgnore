@@ -1,0 +1,16 @@
+# deps
+node_modules/
+
+# builds
+dist/
+build/
+*.tsbuildinfo
+
+# env
+.env.example
+.env.*
+
+
+# OS/editor junk
+.DS_Store
+.vscode/

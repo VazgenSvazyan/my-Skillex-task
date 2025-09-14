@@ -1,0 +1,19 @@
+# ignore these for prettier
+node_modules/
+dist/
+build/
+coverage/
+.tmp/
+.temp/
+*.tsbuildinfo
+
+# env & secrets
+.env
+.env.*
+
+# logs & IDE
+logs/
+*.log
+.vscode/
+.idea/
+.DS_Store
